@@ -10,4 +10,5 @@ cmd => npm install axios
   4- busca:
 nataliakt
 andreocunha
-  5- 
+
+  5- no package.json tive um problema com a porta de inicialização do expo que foi resolvido com acréscimo de "--port 3000" no start do expo.
